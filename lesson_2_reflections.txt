@@ -17,3 +17,7 @@ Any time you are making a major change would be a good time to add a branch. I s
 # How do the diagrams help you visualize the branch structure?
 
 Help show how branches connect back to master and which are reachable, etc.
+
+# What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches together, we get changes from both branches without loss. Both branches become part of the same master branch. We show it in the diagram to better undersdtand the relationship between the branches and show that there may have been concurrent work on each that was later merged into one history. 
