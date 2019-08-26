@@ -1,0 +1,9 @@
+# Using GitHub
+August 25, 2019 at 9:06 PM
+### Notes
+___
+### Keywords/Questions
+#### When would you want to use a remote repository rather than keeping all your work local? 
+When working with collaborators, I could see it would be almost necessary. Also if working across multiple machines. 
+___
+## Summary
